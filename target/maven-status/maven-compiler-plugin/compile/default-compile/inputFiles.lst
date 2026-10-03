@@ -1,1 +1,4 @@
 /mnt/d/java-http-server/src/main/java/gg/rottenambrosia/server/Main.java
+/mnt/d/java-http-server/src/main/java/gg/rottenambrosia/server/config/Configuration.java
+/mnt/d/java-http-server/src/main/java/gg/rottenambrosia/server/config/ConfigurationManager.java
+/mnt/d/java-http-server/src/main/java/gg/rottenambrosia/server/util/Json.java
